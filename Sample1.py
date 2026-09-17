@@ -1,1 +1,1 @@
-print("HELLOW,WORLD")
+{print("HELLOW,WORLD")}
